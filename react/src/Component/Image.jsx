@@ -8,6 +8,7 @@ export default function Content1(){
             <img src={lotus2} alt="Lotus" style={{width:300}}/>
             <br />
             <img src="lotus2.jpg" alt="" style={{width:300}}/>
+            <img src="car.avif" alt="" />
     </>        
     )
 }
